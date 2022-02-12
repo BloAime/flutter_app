@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "293211259137",
+    "project_id": "fir-test-55ffc",
+    "storage_bucket": "fir-test-55ffc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293211259137:android:a09bbc08c59eaf11bb5b00",
+        "android_client_info": {
+          "package_name": "com.example.application_exo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293211259137-640en5iekl65hn9evmvdja6faeiq0168.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs96D8pNdDhjnntI9Y1oxuf0vy9WuUsZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293211259137-640en5iekl65hn9evmvdja6faeiq0168.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "293211259137-vh5480hjossga98q7bdt1qkj2qvisl7j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "IDEDidComputeMac32BitWarning"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
